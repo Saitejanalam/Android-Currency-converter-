@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
         Double editTextDouble = Double.parseDouble(editText.getText().toString());
 
-        Double poundamount = editTextDouble * 69.33;
+        Double poundamount = editTextDouble * 70.00;
 
         Toast.makeText(MainActivity.this,"Rs " + String.format("%.2f",poundamount),Toast.LENGTH_SHORT ).show();
 

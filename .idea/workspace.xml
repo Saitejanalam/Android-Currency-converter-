@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f71a11c-6f70-4378-87df-c5eac64c006a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/java/com/example/currencyconverter/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/java/com/example/currencyconverter/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/androidTest/java/com/example/currencyconverter/ExampleInstrumentedTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/java/com/example/currencyconverter/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/java/com/example/currencyconverter/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="389" />
+    <option name="y" value="27" />
+    <option name="width" value="1024" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyconverter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Android-Currency-converter-" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Android-Currency-converter-" type="462c0819:PsiDirectoryNode" />
+              <item name="Firstdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="Currencyconverter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="currencyconverter" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f71a11c-6f70-4378-87df-c5eac64c006a" name="Default Changelist" comment="" />
+      <created>1557648272647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557648272647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3298585" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/androidTest/java/com/example/currencyconverter/ExampleInstrumentedTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Firstdemo/Currencyconverter/app/src/main/java/com/example/currencyconverter/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="51" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
